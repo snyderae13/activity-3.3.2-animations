@@ -1,3 +1,9 @@
-main {
+ main {
+    transform: skew(0deg, -10deg);
+    width:100vw;
+    
+    
 
 }
+
+

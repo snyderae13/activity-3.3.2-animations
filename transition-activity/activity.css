@@ -1,1 +1,14 @@
+button {
+    transition:1s;
 
+
+}
+
+button:hover {
+    color: white;
+    transition: 2s;
+}
+
+.text-container {
+    position: relative;
+}
